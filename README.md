@@ -3,7 +3,7 @@
 ## Installation
 
 1. Download nodejs
-2. Install nodejs, just click the defaults
+2. Install nodejs, just click the defaults. https://nodejs.org/en
 3. Clone this repository
 4. Open a terminal inside the cloned repository
 5. Run `npm install`
