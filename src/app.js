@@ -13,6 +13,6 @@ app.use(bodyParser.json());
 
 /** Routes */
 app.use("/", mainRoutes);
-app.use("/v1/pay", paymentRoutes);
+app.use("/v1/payments", paymentRoutes);
 
 module.exports = app;
