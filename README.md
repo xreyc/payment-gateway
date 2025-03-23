@@ -1,5 +1,16 @@
 # PAYMENT GATEWAY
 
+## Installation
+
+1. Download nodejs
+2. Install nodejs, just click the defaults
+3. Clone this repository
+4. Open a terminal inside the cloned repository
+5. Run `npm install`
+6. Run `npm run dev`
+
+## Testing the app
+
 ### Create a payment
 
 METHOD: `POST`
